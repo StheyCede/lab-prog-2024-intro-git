@@ -3,4 +3,6 @@ Uno de los mecanismos de sincronización en Java es el bloque synchronized. Este
 
 Por ejemplo, si un método en una clase está marcado como synchronized, cuando un hilo llama a ese método, otros hilos que intenten llamar a métodos sincronizados en el mismo objeto tendrán que esperar hasta que el primer hilo haya terminado su ejecución y liberado el lock. Esto es útil para proteger recursos como variables o estructuras de datos compartidas entre múltiples hilos, garantizando la coherencia y evitando condiciones de carrera (race conditions).
 
+dgndjkfndjkfndkjfnvgddgd
+
 Puedes sincronizar un método completo utilizando la palabra clave synchronized. Esto garantiza que solo un hilo pueda ejecutar este método en un momento dado para un objeto en particular.
