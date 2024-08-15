@@ -6,3 +6,7 @@ Por ejemplo, si un método en una clase está marcado como synchronized, cuando 
 dgndjkfndjkfndkjfnvgddgd
 
 Puedes sincronizar un método completo utilizando la palabra clave synchronized. Esto garantiza que solo un hilo pueda ejecutar este método en un momento dado para un objeto en particular.
+
+jnhjklnhkjnjkbjhk
+
+djcksndkjcnsdjkjksd
